@@ -12,9 +12,12 @@ cd /opt/pure-ftpd-1.0.52
 make
 make install
 ```
-
-### 配置虚拟用户
+### 允许本地用户登录
+```shell
+vim /opt/pure-ftpd-1.0.52/pure-ftpd.conf
+UnixAuthentication yes #去掉注释
 ```
+### 配置虚拟用户
 #ftp1、ftp2，虚拟用户根目录
 mkdir -p /data/ftp/ftp1
 mkdir -p /data/ftp/ftp2
