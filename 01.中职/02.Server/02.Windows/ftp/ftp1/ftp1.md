@@ -3,7 +3,7 @@
 
 ## 解
 -  拒绝上传“.exe”文件
-![pic1](01.中职/02.Server/02.Windows/ftp/pics/1.png)
+![pic1](01.中职/02.Server/02.Windows/ftp/ftp1/pics/1.png)
 
 -  拒绝删除和重命名文件
-![pic2](01.中职/02.Server/02.Windows/ftp/pics/2.png)
+![pic2](01.中职/02.Server/02.Windows/ftp/ftp1/pics/2.png)
