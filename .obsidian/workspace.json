@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.中职/02.Server/04.AI/01.Dify+ollama 部署本地AI聊天机器人.md",
+                "file": "01.中职/02.Server/04.AI/04.候选配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Dify+ollama 部署本地AI聊天机器人"
+              "title": "04.候选配置"
             }
           }
         ]
@@ -186,8 +186,19 @@
   },
   "active": "0c77616623f22de3",
   "lastOpenFiles": [
+    "01.中职/02.Server/04.AI/03.用户提示词.md",
+    "01.中职/02.Server/04.AI/04.候选配置.md",
+    "01.中职/02.Server/04.AI/01.Dify+ollama 离线部署.md",
+    "01.中职/02.Server/04.AI/pics/p3.png",
+    "01.中职/02.Server/04.AI/pics/Screenshot 2026-02-04 at 23.12.41.png",
+    "01.中职/02.Server/04.AI/pics/p2.png",
+    "01.中职/02.Server/04.AI/pics/Screenshot 2026-02-04 at 23.11.13.png",
+    "01.中职/02.Server/04.AI/pics/Untitled",
+    "01.中职/02.Server/04.AI/02.Dify离线安装插件教程.md",
+    "01.中职/02.Server/04.AI/pics/p1.png",
+    "01.中职/02.Server/04.AI/pics/Screenshot 2026-02-04 at 22.11.32.png",
+    "01.中职/02.Server/04.AI/pics",
     "01.中职/02.Server/03.Script/script11.md",
-    "01.中职/02.Server/04.AI/01.Dify+ollama 部署本地AI聊天机器人.md",
     "01.中职/02.Server/04.AI/Dify+ollama 部署本地AI聊天机器人.md",
     "01.中职/02.Server/04.AI",
     "01.中职/02.Server/03.Script/script10.md",
@@ -214,15 +225,9 @@
     "01.中职/02.Server/01.Linux/redis/01.redis集群/redis集群搭建.md",
     "01.中职/02.Server/01.Linux/redis/01.redis集群/01.redis-cluster.md",
     "01.中职/02.Server/01.Linux/redis/01.redis集群",
-    "01.中职/02.Server/01.Linux/redis/02.redis哨兵/02.redis-sentinel.md",
     "01.中职/02.Server/01.Linux/redis/02.redis哨兵",
-    "01.中职/02.Server/01.Linux/redis/01.Redis集群/redis集群搭建.md",
-    "01.中职/02.Server/01.Linux/redis/01.Redis集群/01.redis-cluster.md",
     "01.中职/02.Server/01.Linux/redis/01.Redis集群",
     "01.中职/02.Server/01.Linux/redis/redis哨兵",
-    "01.中职/02.Server/01.Linux/redis/untitled folder",
-    "01.中职/02.Server/01.Linux/redis/04.redis.md",
-    "01.中职/02.Server/01.Linux/redis/Redis集群",
     "01.中职/02.Server/02.Windows/windows域迁移/pics/p2.png",
     "01.中职/02.Server/02.Windows/windows域迁移/pics/p1.png"
   ]
