@@ -1,4 +1,4 @@
-s## Minio安装
+## Minio安装
 ```shell
 dnf install https://dl.minio.org.cn/server/minio/release/linux-amd64/minio-20250723155402.0.0-1.x86_64.rpm
 ```
