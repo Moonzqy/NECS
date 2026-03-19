@@ -109,7 +109,7 @@ docker run -d \
   
   -v /opt/auth:/opt/auth \
   -e REGISTRY_AUTH=htpasswd \
-  -e REGISTRY_AUTH_HTPASSWD_REALM=Registry Realm \
+  -e REGISTRY_AUTH_HTPASSWD_REALM="Registry Realm" \
   -e REGISTRY_AUTH_HTPASSWD_PATH=/opt/auth/authfile \
   
   -v /certs:/certs \
